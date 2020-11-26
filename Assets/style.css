@@ -31,4 +31,11 @@ body {
     margin-top: 5%;
 }
 
+.footer {
+    background-color: #343a40;
+    color:white;
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    
 
+}

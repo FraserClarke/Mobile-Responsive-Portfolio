@@ -16,11 +16,11 @@ pages which incorporates:
 [Portfolio Index Page](https://fraserclarke.github.io/Mobile-Responsive-Portfolio/)
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/tree/main/Assets/screen1.png)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/main/Assets/screen1.png)
 
-![Screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/tree/main/Assets/screen2.png)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/main/Assets/screen2.png)
 
-![Screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/tree/main/Assets/screen3.png)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/main/Assets/screen3.png)
 
 
 

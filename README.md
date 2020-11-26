@@ -12,11 +12,11 @@ pages which incorporates:
 [Portfolio Index Page](https://fraserclarke.github.io/Mobile-Responsive-Portfolio/)
 
 ## Screenshot
-![Screenshot](..)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
 
-![Screenshot](..)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
 
-![Screenshot](..)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
 
 
 
@@ -24,4 +24,4 @@ pages which incorporates:
 
 Fraser Clarke 
 
-[Picture source](..)
+[Picture source](https://www.pexels.com/photo/bark-forest-tree-tree-trunk-4587/)

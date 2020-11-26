@@ -1,0 +1,25 @@
+.img-fluid {
+    width: 100%;
+
+    
+}
+
+body {
+        background-image: url('Background.jpg');
+      }
+
+
+
+.row {
+    margin-top: 5%;
+    color:white;
+    background-color: darkslategrey;
+}
+
+.header {
+    margin-top: 5%;
+}
+
+p {
+    
+}

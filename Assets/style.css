@@ -14,19 +14,21 @@ body {
         
       }
 
-.container {
-    margin-right: ;
-}
-
 
 
 .row {
     margin-top: 5%;
     color:white;
     background-color: darkslategrey;
+    width: 70%;
+}
+
+#portfolio {
+    width: 70%;
 }
 
 .header {
     margin-top: 5%;
 }
+
 

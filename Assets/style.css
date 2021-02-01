@@ -21,6 +21,7 @@ body {
     color:white;
     background-color: darkslategrey;
     width: 70%;
+    border-radius: 15px;
 }
 
 #portfolio {
@@ -41,5 +42,7 @@ body {
 }
 
 h2 {
+    text-align: center;
     color: black;
 }
+

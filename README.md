@@ -10,6 +10,9 @@ pages which incorporates:
 * working links, 
 * consistent navbar,
 * Responisve resizing
+* Functional Contact form utilising API
+
+The webpages feature, a biography, contact information and a working contact form page which sends the form to my email. Also has working links to LinkedIn, CV, GitHub, Projects and assignments.
 
 ## Link
 
@@ -30,5 +33,7 @@ pages which incorporates:
 ##  Credits
 
 Fraser Clarke 
+
+[Formspree](https://formspree.io/)
 
 [Picture source](https://www.pexels.com/photo/bark-forest-tree-tree-trunk-4587/)
